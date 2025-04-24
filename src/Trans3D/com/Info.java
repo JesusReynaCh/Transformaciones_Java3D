@@ -130,42 +130,6 @@ public class Info extends javax.swing.JFrame {
         jLabel2.setText("v1.0");
         PanelInfo.add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(300, 70, -1, 10));
 
-        txtAutores.setFont(new java.awt.Font("Roboto Medium", 0, 12)); // NOI18N
-        txtAutores.setText("Autores:");
-        PanelInfo.add(txtAutores, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 160, -1, -1));
-
-        TxtAutores.setFont(new java.awt.Font("Roboto Medium", 0, 12)); // NOI18N
-        TxtAutores.setText("Obregon Tejada Luis Manuel");
-        PanelInfo.add(TxtAutores, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 340, -1, -1));
-
-        TxtAutores1.setFont(new java.awt.Font("Roboto Medium", 0, 12)); // NOI18N
-        TxtAutores1.setText("León Rodea Andrei Uriel");
-        PanelInfo.add(TxtAutores1, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 220, -1, -1));
-
-        TxtAutores2.setFont(new java.awt.Font("Roboto Medium", 0, 12)); // NOI18N
-        TxtAutores2.setText("Ayala Rivera Ruben");
-        PanelInfo.add(TxtAutores2, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 190, -1, -1));
-
-        TxtAutores3.setFont(new java.awt.Font("Roboto Medium", 0, 12)); // NOI18N
-        TxtAutores3.setText("Reyna Chavira Jesus Alejandro");
-        PanelInfo.add(TxtAutores3, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 250, -1, -1));
-
-        TxtAutores4.setFont(new java.awt.Font("Roboto Medium", 0, 12)); // NOI18N
-        TxtAutores4.setText("Cruz Muñoz Victor Alejandro");
-        PanelInfo.add(TxtAutores4, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 280, -1, -1));
-
-        TxtAutores5.setFont(new java.awt.Font("Roboto Medium", 0, 12)); // NOI18N
-        TxtAutores5.setText("Galaviz Quintanilla Javier Ulises");
-        PanelInfo.add(TxtAutores5, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 310, -1, -1));
-
-        TxtInfoTec.setFont(new java.awt.Font("Roboto Medium", 0, 12)); // NOI18N
-        TxtInfoTec.setText("Instituto Tecnologico de Cd Victoria");
-        PanelInfo.add(TxtInfoTec, new org.netbeans.lib.awtextra.AbsoluteConstraints(80, 90, -1, -1));
-
-        TxtInfoFecha.setFont(new java.awt.Font("Roboto Medium", 0, 12)); // NOI18N
-        TxtInfoFecha.setText("Agosto - Diciembre 2022");
-        PanelInfo.add(TxtInfoFecha, new org.netbeans.lib.awtextra.AbsoluteConstraints(200, 470, -1, -1));
-
         getContentPane().add(PanelInfo, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, -1, 498));
 
         pack();
